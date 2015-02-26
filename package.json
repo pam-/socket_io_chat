@@ -2,15 +2,16 @@
   "name": "socket-chat-tut",
   "version": "0.0.1",
   "description": "my first socket.io app",
+  "README": "Trying some things",
   "author":{
     "name": "pam-",
     "email": "pam.assogba@gmail.com"
   },
   "repository":{
     "type": "git",
-    "url": ""
+    "url": "git::github.com/pam-/socket_io_chat.git"
   },
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.10.2",
     "grunt": "0.4.5",
     "grunt-autoprefixer": "^0.7.3",
