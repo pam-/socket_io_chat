@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-tut",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "author":{
+    "name": "pam-",
+    "email": "pam.assogba@gmail.com"
+  },
+  "repository":{
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "grunt": "0.4.5",
+    "grunt-autoprefixer": "^0.7.3",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-browser-sync": "^1.5.3",
+    "socket.io": "^1.3.4"
+  }
+}
